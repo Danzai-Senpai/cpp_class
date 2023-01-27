@@ -14,10 +14,10 @@ int main(){
     playerStayAlive = true;
     playerName = "John";
 
-    cout<<life<<endl;
-    cout<<energy<<endl;
-    cout<<playerStayAlive<<endl;
-    cout<<playerName<<endl;
+    cout << life << endl;
+    cout << energy << endl;
+    cout << playerStayAlive << endl;
+    cout << playerName << endl;
 
     return 0;
 
