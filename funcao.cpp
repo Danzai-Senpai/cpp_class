@@ -18,6 +18,5 @@ void Message() {
 int main() {
 
     Message();
-    return 0;
 
 }

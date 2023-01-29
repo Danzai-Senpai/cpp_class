@@ -1,0 +1,3 @@
+O c++ divide a memoria em 2 partes que são a memoria Stack e a memoria Heap.
+Na Stack é onde temos nossas variaveis locais, desde nosso int, float, char, etc...
+Nossa memoria Heap é nossa memoria livre. Os ponteiros nos darão acesso a essa area de memoria tambem nos possibilitando seu gerenciamento.
